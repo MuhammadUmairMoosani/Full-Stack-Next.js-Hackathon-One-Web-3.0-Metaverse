@@ -7,19 +7,19 @@ export const siteConfig = {
   mainNav: [
     {
       title: "Female",
-      href: "/",
+      href: "/female",
     },
     {
       title: "Male",
-      href: "/",
+      href: "/male",
     },
     {
       title: "Kids",
-      href: "/",
+      href: "/kids",
     },
     {
       title: "All products",
-      href: "/",
+      href: "/all_products",
     },
   ],
   links: {
